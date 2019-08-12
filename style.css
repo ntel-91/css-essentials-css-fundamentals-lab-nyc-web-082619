@@ -33,5 +33,5 @@ nav a {
 } */
 
 #details {
- text-align: center;
+ display: block;
 }
