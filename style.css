@@ -27,11 +27,11 @@ nav a {
 }
 
 
-#featured-property { 
+#featured-property p { 
   width: 800px;
 }
 
-#details {
+/* #details {
  display: block;
  text-align: center;
-}
+} */
