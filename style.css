@@ -32,7 +32,7 @@ nav a {
   width: 800px;
 } */
 
-p#details {
+#details {
  display: block;
  text-align: center;
 }
